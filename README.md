@@ -9,7 +9,7 @@ This stopwatch application allows users to start, stop, and reset the timer. The
 - Modern and responsive design
 - Stylish animations and hover effects
   
-You can check out the live demo of the application [https://gauri02-debug.github.io/StopWatch/](#).
+You can check out the live demo of the application https://gauri02-debug.github.io/StopWatch/
 
 Usage:
 Open index.html in your web browser to view the stopwatch application.
